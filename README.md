@@ -1,4 +1,4 @@
 # Cafe Management System by Java
 
 # Introduction
-A Digital System that designed to simplify daily operation and keep track of purchases and sales
+A Digital System that designed to simplify daily operation and keep track of purchases and sales, enabling administrators to access, modify and remove data or products
